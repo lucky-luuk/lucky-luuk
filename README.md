@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **lucky-luuk/lucky-luuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+##Hey👋 , Welcome on my GitHub
+
+As a software engineer student I’m exploring the world of tech!
+
+In my GitHub you will find my private and school project. I hope you have fun exploring them.
+
+*small disclaimer. I’m still learning a lot so not everything will be perfect*
