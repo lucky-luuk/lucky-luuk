@@ -21,9 +21,11 @@ As a software engineer student I’m exploring the world of tech!
 In my GitHub you will find my private and school project. I hope you have fun exploring them.
 
 🌱 I’m currently learning:
+- Java
+- Angular
 - Kotlin
-- Express
 - ReactJS
+- Express
 
 
 *small disclaimer. I’m still learning a lot so not everything will be perfect*
