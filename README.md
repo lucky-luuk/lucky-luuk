@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 
 ## Hey👋 , Welcome on my GitHub
 
-As a software engineer student I’m exploring the world of tech!
+As a software engineering student, I'm on an exciting journey through the tech landscape! My GitHub activity might not be as frequent as expected because my studies involve engaging with multiple tools and environments such as Azure, GCP, and Gitlab.
 
-In my GitHub you will find my private and school project. I hope you have fun exploring them.
+On my GitHub, you'll discover a mix of private and academic projects. I invite you to dive in and explore what I’ve been working on.
 
-🌱 I’m currently learning:
+🌱 Currently, I’m expanding my knowledge in:
+
 - Java
 - Angular
-- Kotlin
-- ReactJS
-- Express
+- C# .NET
+- Go
 
-
-*small disclaimer. I’m still learning a lot so not everything will be perfect*
+*Please note, I am still in the learning phase, so while I strive for excellence, everything may not be flawless.*
